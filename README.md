@@ -2,6 +2,7 @@
 
 ## Description
 This is a beginner-friendly, interactive web-based chat application built with PHP and MySQL. It facilitates real-time communication among users. Please note that the page needs to be refreshed to update information.
+Here is the live link http://swedi-empire.infinityfreeapp.com/
 
 ## Features
 - **Profile Image Upload**: Users can personalize their accounts by uploading profile images.
